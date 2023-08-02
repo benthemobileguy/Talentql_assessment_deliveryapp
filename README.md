@@ -27,6 +27,6 @@ I added some widget testing on the app. To run it, use this command:
 
 `flutter test test/app_test.dart`
 
-To run the project, run this command:
+To run the project locally, run this command:
 
 `flutter run`
