@@ -1,12 +1,16 @@
+import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:delivery_app_talentql/main.dart' as app;
+import 'package:delivery_app_talentql/main.dart';
+import 'package:delivery_app_talentql/screens/login_screen.dart';
 
 void main() {
-  testWidgets('Login Screen should display', (WidgetTester tester) async {
-    // Build our app and trigger a frame.
-    await tester.pumpWidget(const app.MyApp());
+  testWidgets('MyApp should contain MaterialApp with LoginScreen', (WidgetTester tester) async {
+    await tester.pumpWidget(const MyApp());
 
-    // Verify that the login screen displays 'Login with Google' button.
-    expect(find.text('Login with Google'), findsOneWidget);
+    // Verify that MaterialApp is rendered
+    expect(find.byType(MaterialApp), findsOneWidget);
+
+    // Verify that the MaterialApp contains LoginScreen
+    expect(find.byType(LoginScreen), findsOneWidget);
   });
 }
