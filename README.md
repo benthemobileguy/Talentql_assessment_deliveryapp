@@ -20,3 +20,10 @@ https://github.com/benthemobileguy/Talentql_assessment_deliveryapp/assets/268167
 4. Tracking Details: Contains the tracking number, map and Draggable bottom sheet - closed initially
 5. The bottom sheet can be expanded to see more details about the item.
 
+## Widget Testing
+
+I added some widget testing on the app. To run it, use this command:
+
+
+`flutter test test/app_test.dart`
+
