@@ -7,6 +7,7 @@
 https://github.com/benthemobileguy/Talentql_assessment_deliveryapp/assets/26816781/af53ca04-727b-4cfc-9e0f-9fefed7bdeae
 
 
+## screenshots of the app that was made
 
 |Login|Home|Home2| Tracking                      |Tracking Details|
 |---|---|---|-----------------------------------|---|
