@@ -3,7 +3,6 @@ import 'package:delivery_app_talentql/core/resources/font_manager.dart';
 import 'package:delivery_app_talentql/core/resources/image_paths.dart';
 import 'package:delivery_app_talentql/core/resources/string_manager.dart';
 import 'package:delivery_app_talentql/core/resources/values_manager.dart';
-import 'package:delivery_app_talentql/screens/components/custom_list_tile.dart';
 import 'package:delivery_app_talentql/screens/components/history_list_tile.dart';
 import 'package:delivery_app_talentql/screens/components/track_card.dart';
 import 'package:delivery_app_talentql/theme/styles.dart';

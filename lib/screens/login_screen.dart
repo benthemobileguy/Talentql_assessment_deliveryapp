@@ -50,6 +50,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   Center(
                     child: Image.asset(
                       ImagePaths.onboardingImg,
+                      key: const Key('onboarding_image'),
                       height: AppSize.s300,
                       width: AppSize.s300,
                     ),
