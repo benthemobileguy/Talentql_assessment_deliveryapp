@@ -3,5 +3,9 @@
   This is a delivery app that represents an assessment task for a talentQL.
 
 # video representation
-Uploading Simulator Screen Recording - iPhone 14 Plus - 2023-08-01 at 21.53.25.mp4…
+
+https://github.com/benthemobileguy/Talentql_assessment_deliveryapp/assets/26816781/af53ca04-727b-4cfc-9e0f-9fefed7bdeae
+
+
+
 
